@@ -1,0 +1,45 @@
+/**
+ * Moono CKEditor like theme for elFinder
+ * Required jquery ui "smoothness" theme and FontAwesome for icons
+ * Style rules copied and edited from Moono CKEditor source
+ * @author lokothodida
+ **/
+
+/* Main features of the whole UI */
+@import url('mainui.css');
+
+/* File Icons */
+@import url('file-icons.css');
+
+/* Toolbar  */
+@import url('toolbar.css');
+
+/* Toolbar Icons */
+@import url('toolbar-icons.css');
+
+/* Navbar */
+@import url('navbar.css');
+
+/* Navbar Restrictions */
+@import url('navbar-restrict.css');
+
+/* Navbar Icons */
+@import url('navbar-icons.css');
+
+/* Thumbnail View */
+@import url('view.css');
+
+/* List View */
+@import url('view-list.css');
+
+/* View Icons */
+@import url('view-icons.css');
+
+/* Modal Dialogs */
+@import url('dialog.css');
+
+/* Context menu */
+@import url('contextmenu.css');
+
+/* Status Bar */
+@import url('statusbar.css');

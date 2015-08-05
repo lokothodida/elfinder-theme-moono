@@ -73,6 +73,12 @@
   box-sizing: border-box;
 }
 
+/* searchbar menu (v2.1) */
+.elfinder-toolbar .elfinder-button-search .elfinder-button-menu {
+  padding: 4px 0 0 4px;
+}
+
+
 /* at the time of speaking, v2.1 has a second, non-functional search bar, so
    we'll hide it - this does mean that the CTRL-F shortcut will not work in v2.1
    though */

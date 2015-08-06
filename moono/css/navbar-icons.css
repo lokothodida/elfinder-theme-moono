@@ -43,7 +43,7 @@
 /* home */
 .elfinder .elfinder-navbar-root > .elfinder-navbar-icon:before,
 .elfinder .elfinder-navbar-root.elfinder-navbar-expanded > .elfinder-navbar-icon:before {
-  content: '\f0c9';
+  content: '\f015';
 }
 
 /* directory */

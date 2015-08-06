@@ -39,19 +39,10 @@
 .elfinder-button-icon-view-list:before { content: '\f0ca'; }
 .elfinder-button-icon-help:before { content: '\f059'; }
 .elfinder-button-icon-help:before { content: '\f059'; }
-
-.elfinder-button-icon-duplicate:before { /* flipped copy icon */
-  content: '\f0c5';
-  /* solution found at http://stackoverflow.com/questions/5406368/can-you-use-css-to-mirror-flip-text */
-  -moz-transform: scale(-1, 1);
-  -webkit-transform: scale(-1, 1);
-  -o-transform: scale(-1, 1);
-  -ms-transform: scale(-1, 1);
-  transform: scale(-1, 1);
-}
+.elfinder-button-icon-duplicate:before { content: '\f24d';}
 .elfinder-button-icon-rm:before { content: '\f014'; }
 .elfinder-button-icon-edit:before { content: '\f044'; }
-.elfinder-button-icon-rename:before { content: '\f035'; }
+.elfinder-button-icon-rename:before { content: '\f246'; }
 .elfinder-button-icon-archive:before { content: '\f1c6'; }
 .elfinder-button-icon-archive:after { /* '+' icon overlaying archive */
   position: absolute;

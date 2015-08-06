@@ -2,6 +2,8 @@
 A theme for elFinder that mimics [CKEditor's](http://ckeditor.com/)
 [Moono](http://ckeditor.com/addon/moono) skin.
 
+![screenshot from 2015-08-06 16 27 17](https://cloud.githubusercontent.com/assets/4363863/9115678/3a1caf24-3c58-11e5-8b26-e13c5d21a7fd.png)
+
 # Usage
 * Copy the `/moono` folder from this repository to the `/themes` folder of your
 elFinder installation (create the folder if it doesn't exist)

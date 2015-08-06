@@ -21,6 +21,7 @@
 }
 .elfinder-button-icon-back:before { content: '\f137'; }
 .elfinder-button-icon-forward:before { content: '\f138'; }
+.elfinder-button-icon-netmount:before { content: '\f233'; }
 .elfinder-button-icon-reload:before { content: '\f021'; }
 .elfinder-button-icon-home:before { content: '\f015'; }
 .elfinder-button-icon-up:before { content: '\f148'; }

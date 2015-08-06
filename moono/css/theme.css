@@ -5,6 +5,9 @@
  * @author lokothodida
  **/
 
+/* FontAwesome Icons */
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css');
+
 /* Main features of the whole UI */
 @import url('mainui.css');
 

@@ -78,6 +78,28 @@
   padding: 4px 0 0 4px;
 }
 
+/* searchbar menu items */
+.elfinder-toolbar .elfinder-button-search .elfinder-button-menu .ui-button-text {
+  cursor: pointer;
+}
+
+/* searchbar menu unselected items */
+.elfinder-toolbar .elfinder-button-search .elfinder-button-menu .ui-state-default {
+  background-image: none;
+  background: #eaeaea;
+}
+
+/* searchbar menu hovered items */
+.elfinder-toolbar .elfinder-button-search .elfinder-button-menu .ui-state-hover {
+  background-image: none;
+  background: #d0ebf4;
+  border: 1px solid #509ece !important;
+}
+
+/* searchbar menu hovered items text */
+.elfinder-toolbar .elfinder-button-search .elfinder-button-menu .ui-button-text:hover {
+  color: #509ece;
+}
 
 /* at the time of speaking, v2.1 has a second, non-functional search bar, so
    we'll hide it - this does mean that the CTRL-F shortcut will not work in v2.1

@@ -4,8 +4,6 @@
   "description": "A theme for elFinder that mimics the Moono CKEditor skin",
   "main": "index.js",
   "devDependencies": {
-    "gulp-concat-css": "^2.2.0",
-    "node-minify": "latest",
     "less": "latest"
   },
   "scripts": {

@@ -1,0 +1,33 @@
+{
+  "name": "elfinder-theme-moono",
+  "version": "1.0.0",
+  "description": "A theme for elFinder that mimics the Moono CKEditor skin",
+  "main": "index.js",
+  "devDependencies": {
+    "less": "latest"
+  },
+  "scripts": {
+    "build:css": "lessc moono/css/theme.less > moono/css/theme.css",
+    "build": "npm run build:css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lokothodida/elfinder-theme-moono"
+  },
+  "keywords": [
+    "elfinder",
+    "file",
+    "manager",
+    "javascript",
+    "js",
+    "skin",
+    "theme",
+    "css"
+  ],
+  "author": "Lawrence Okoth-Odida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lokothodida/elfinder-theme-moono/issues"
+  },
+  "homepage": "https://github.com/lokothodida/elfinder-theme-moono"
+}

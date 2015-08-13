@@ -27,10 +27,21 @@ Compressing these files requires NodeJS.
 
 To build changes to the css file:
 
-1. Edit the corresponding `.less` files in `moono/css/`
-2. In the terminal, run:
+1. Clone this repository:
+
+    ```
+    $ git clone https://github.com/lokothodida/elfinder-theme-moono.git
+    ```
+
+2. Edit the corresponding `.less` files in `moono/css/`
+3. In the terminal, if you don't have less installed globally, run:
 
     ```
     $ npm install -g less
+    ```
+
+4. Then to build, run:
+
+    ```
     $ npm run build
     ```

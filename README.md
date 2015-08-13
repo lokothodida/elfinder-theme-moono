@@ -32,10 +32,12 @@ Compressing these files requires [Node.js](https://nodejs.org/).
     ```
 
 2. Edit the corresponding `.less` files in `moono/css/`
-3. In the terminal, if you don't have less installed globally, run:
+
+3. In the terminal, if this is your first time doing the build, run this to
+install all of the dependencies:
 
     ```
-    $ npm install -g less
+    $ npm install
     ```
 
 4. Then to build, run:

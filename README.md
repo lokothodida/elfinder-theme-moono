@@ -23,9 +23,7 @@ and [2.1 (Nightly)](http://nao-pon.github.io/elFinder-nightly/latests/elfinder-2
 
 # Modifying the source
 This theme uses `.less` files that are compressed into `moono/css/theme.css`.
-Compressing these files requires NodeJS.
-
-To build changes to the css file:
+Compressing these files requires [Node.js](https://nodejs.org/).
 
 1. Clone this repository:
 

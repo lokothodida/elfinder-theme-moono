@@ -155,6 +155,10 @@
 .elfinder-cwd-icon-xml:before {
   content: '\f1c9';
 }
+/* unknown file types */
+.elfinder-cwd-icon-unknown:before {
+  content: '\f016';
+}
 /* Toolbar  */
 /* toolbar */
 .elfinder .elfinder-toolbar {
@@ -198,7 +202,7 @@
 .elfinder .elfinder-buttonset .elfinder-button:active {
   box-shadow: 0 0 1px rgba(0, 0, 0, 0.3) inset;
   background: #ccc;
-  background-image: linear-gradient(to bottom, #f2f2f2, #cccccc);
+  background-image: linear-gradient(to bottom, #f2f2f2, #ccc);
   filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#f2f2f2', endColorstr='#cccccc');
 }
 /* disabled buttons */
@@ -859,7 +863,7 @@
 .elfinder-dialog .ui-button:hover {
   border-color: #9e9e9e;
   background: #ccc;
-  background-image: linear-gradient(to bottom, #f2f2f2, #cccccc);
+  background-image: linear-gradient(to bottom, #f2f2f2, #ccc);
   filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#f2f2f2', endColorstr='#cccccc');
 }
 .elfinder-dialog .ui-button:active {
@@ -957,7 +961,7 @@
 .elfinder .elfinder-path a:hover:active {
   box-shadow: 0 0 1px rgba(0, 0, 0, 0.3) inset;
   background: #ccc;
-  background-image: linear-gradient(to bottom, #f2f2f2, #cccccc);
+  background-image: linear-gradient(to bottom, #f2f2f2, #ccc);
   filter: progid:DXImageTransform.Microsoft.gradient(gradientType=0, startColorstr='#f2f2f2', endColorstr='#cccccc');
 }
 .elfinder .elfinder-statusbar .elfinder-stat-selected {
